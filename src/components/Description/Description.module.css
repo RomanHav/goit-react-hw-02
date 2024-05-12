@@ -1,0 +1,11 @@
+.descrinfo {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  margin-bottom: 40px;
+  justify-content: center;
+  align-items: flex-start;
+}
+.descr {
+  font-size: 24px;
+}
